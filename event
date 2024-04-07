@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>EVENTS</title>
+<link rel="icon" href="img/date.png">
+    </head>
+        <body bgcolor="black" style="color: white;">
+            <center>
+            <h1>Upcoming Events</h1>
+            <p>Don't miss any of the events.Stay Updated!!</p>
+            </center>
+            <hr>
+            <p>
+                College life is a once-in-a-lifetime event that profoundly influences our personalities and destiny. Our daily experiences in college expose us to new things, many of which we were previously unaware of. During my time in college, I actively participated in various events and societies. I joined the dance and quiz society, enthusiastically taking part in dance performances and competing in quiz competitions held at various Delhi University campuses. These events not only enhanced my skills but also allowed me to forge lasting friendships and create cherished memories. College life is a vibrant tapestry of learning, growth, and unforgettable moments.🎓🌟
+            </p>
+            <center>
+            <img src="img/event1.png">
+            <h1>Photo Gallery</h1>
+            <h2>Free Entry | Free Food | Pets Are Not Allowed</h2>
+            <p>Last week, our college organized a Culturals in the spacious hall. The event was meticulously planned by the Culturals Coordinators, involving both students and teachers. Notably, there were no entry fees or food charges, making it accessible to all. However, attendees were kindly requested to leave their furry companions at home.</p>
+        </center>
+<center>
+    <img src="img/event2.png">
+    <h1>
+        <a href="https://www.flipkart.com/">Fashion Store</a>
+    </h1>
+    <h2>Free Entry | Free Food | Pets Are Not Allowed</h2>
+    <p>In college, fashion events are vibrant showcases where students flaunt their sartorial creativity. These gatherings buzz with excitement as young fashion enthusiasts don their flashy, gorgeous outfits. From dandies to butterflies, the runway becomes a canvas for self-expression, reflecting evolving trends and individuality</p>
+</center>
+<hr>
+<center>
+    <h1>For More Details Contact</h1>
+    <h2>9145789146 | eventcoor@gmail.com </h2>
+    <p>2nd st XYZ road, Chennai</p>
+</center>
+        </body>
+</html>
